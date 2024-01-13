@@ -11,3 +11,4 @@ Following this tutorial: https://blog.jetbrains.com/go/2022/11/08/build-a-blog-w
 - [ ] Finish SQP course
 - [ ] Finish Go Course
 - [ ] Intagrate blog on [BlakeAnneberg.com](blakeanneberg.com)
+- [x] Set up Github repo
